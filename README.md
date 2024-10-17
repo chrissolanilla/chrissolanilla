@@ -1,6 +1,7 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Christopher Solanilla</h1>
 <h3 align="center">A passionate developer, Linux enthusiast, game developer, and Computer Engineering student</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chrissolanilla)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on RustyReef

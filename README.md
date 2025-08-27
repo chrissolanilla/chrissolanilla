@@ -4,10 +4,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chrissolanilla)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on RustyReef
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on S.T.E.P.S.
+- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on making Linux applications work better(Wayland, gaming)
-- 💬 Ask me about Neovim, Arch Linux
+- 💬 Ask me about Neovim, Arch Linux, Gentoo Linux
 - 📫 How to reach me: https://chrissolanilla.com
-- ⚡ Fun fact: I used to work on stem cell research for the Univeristy of Miami in Highschool
+- ⚡ Fun fact: I do wrestling and brazilain jiu jitsu, I like to break dance, and I used to work on stem cell research for the Univeristy of Miami in Highschool
 

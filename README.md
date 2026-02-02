@@ -1,12 +1,17 @@
-<div align="center">
+```
+     _.._
+  .' .-'`   Christopher Solanilla
+ /  /       ---------------------
+|  |        Role: Programmer, GameDev, WebDev, Software Engineer
+ \  '.___.; Languages: Spanish(Native), English(Native), Japanese(N5), Chinese(beginner)
+  '.____.'  University: Univeristy of Central Florida
+            Email: chrissolanilla@gmail.com
+            GitHub: @chrissolanilla
+            Discord: @bustopherfrfx
+            Itch.io: https://bustopher.itch.io/
+            "I like to program for fun"
+```
 
-# Christopher Solanilla
-
-<sub><em>I like to program for fun. I often make software for my linux system, various game dev, and web dev often professionally.</em></sub>
-
-</div>
-
----
 
 ## GitHub stats
 

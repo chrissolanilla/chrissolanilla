@@ -49,13 +49,13 @@
 - **CSS**  3 repos
 - **Shell**  3 repos
 - **Assembly**  2 repos
+- **Rust**  2 repos
 - **CoffeeScript**  2 repos
 - **TypeScript**  2 repos
 - **Hack**  2 repos
 - **Objective-C**  1 repos
 - **D**  1 repos
 - **Go**  1 repos
-- **Rust**  1 repos
 - **PHP**  1 repos
 - **Vue**  1 repos
 

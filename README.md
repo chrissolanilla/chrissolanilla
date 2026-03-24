@@ -18,16 +18,16 @@
 | Metric           | Value       |
 | ---------------- | ----------- |
 | Active Years  | 2022 → 2026 |
-| Total Commits | **907**     |
-| Pull Requests | **33**      |
-| Issues Opened | **22**      |
-| Public Repos  | **77**      |
+| Total Commits | **1011**     |
+| Pull Requests | **36**      |
+| Issues Opened | **28**      |
+| Public Repos  | **98**      |
 
 ---
 
-## Most Touched Repositories
+## Most Touched Repositories(Public)
 
-- **chrissolanilla/Portfolio** 69 commits
+- **chrissolanilla/Portfolio** 71 commits
 - **chrissolanilla/Deck-builder** 63 commits
 - **chrissolanilla/rythmgame** 59 commits
 - **chrissolanilla/Will-Website-Holding** 48 commits
@@ -37,15 +37,15 @@
 
 ## Most Used Languages
 
-- **Python**  10 repos
+- **Python**  12 repos
 - **GDScript**  6 repos
-- **C++**  6 repos
-- **Svelte**  5 repos
-- **C**  4 repos
-- **JavaScript**  4 repos
-- **Lua**  4 repos
+- **C++**  8 repos
+- **Svelte**  7 repos
+- **C**  6 repos
+- **Rust**  5 repos
+- **Lua**  5 repos
+- **JavaScript**  5 repos
 - **HTML**  4 repos
-- **Rust**  3 repos
 - **ShaderLab**  3 repos
 - **CSS**  3 repos
 - **Shell**  3 repos
@@ -53,11 +53,12 @@
 - **CoffeeScript**  2 repos
 - **TypeScript**  2 repos
 - **Hack**  2 repos
+- **Qasm**  2 repos
+- **Vue**  2 repos
 - **Objective-C**  1 repos
 - **D**  1 repos
 - **Go**  1 repos
 - **PHP**  1 repos
-- **Vue**  1 repos
 
 
 <details>

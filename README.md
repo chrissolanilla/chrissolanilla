@@ -3,7 +3,7 @@
   .' .-'`   Christopher Solanilla
  /  /       ---------------------
 |  |        Role: Programmer, GameDev, WebDev, Software Engineer
- \  '.___.; Languages: Spanish(Native), English(Native), Japanese(N5), Chinese(beginner)
+ \  '.___.; Languages: Spanish(Native), English(Native), Japanese(N3), Chinese(beginner)
   '.____.'  University: Univeristy of Central Florida
             Email: chrissolanilla@gmail.com
             GitHub: @chrissolanilla
